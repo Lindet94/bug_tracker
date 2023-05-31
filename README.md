@@ -1,2 +1,2 @@
-# bug_tracker
+# Bug Tracker
 Bug tracker application
